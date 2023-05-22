@@ -25,7 +25,6 @@ public class NewServlet extends HttpServlet {
      */
     public NewServlet() {
         super();
-        // TODO Auto-generated constructor stub
     }
 
     /**
@@ -58,5 +57,4 @@ public class NewServlet extends HttpServlet {
 
         em.close();
      }
-
 }
